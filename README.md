@@ -22,7 +22,7 @@ encrypted_text = encrypt(plaintext, k)
 print(encrypted_text)  # Output: 'fcjjm'
 
 
-Replace the plaintext and k variables with your own values as needed.
+ 1. Replace the plaintext and k variables with your own values as needed.
 Function Explanation
 The encrypt function performs the following steps:
 
